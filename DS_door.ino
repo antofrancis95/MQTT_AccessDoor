@@ -11,9 +11,9 @@
 #include <PubSubClient.h>
 
 // your network name also called SSID
-char ssid[] = "Datasemantics";
+char ssid[] = "Wifi SSID";
 // your network password
-char password[] = "D@ta#sem@nticz";
+char password[] = "password";
 // MQTTServer to use
 char server[] = "192.168.2.57";
 
